@@ -8,7 +8,7 @@ ssh -Y ip_address
 ```
 This enables trusted X11 forwarding, don't worry this just means it will allow us to run graphical user interfaces from the AMI on your local computer.
 
-If you have logged in to the AMI via Guacmole and selected the Desktop interface, then don't worry about that bit...Onwards.
+If you have logged in to the AMI via Guacamole and selected the Desktop interface, then don't worry about that bit...Onwards.
 
 Open a terminal, or use the terminal in your SSH session, and you should find a directory called "workshop_materials" in your home directory where this adventure is cloned. All further commands will be run within the "genomics_adventure" directory.
 ```bash
